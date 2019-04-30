@@ -182,3 +182,7 @@ const TabButton = styled.div<{ selected: boolean }>`
   align-items: center;
   justify-content: center;
 `;
+
+const LogoSvg = styled.svg`
+  height: 30px;
+`;
